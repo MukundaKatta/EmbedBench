@@ -1,4 +1,6 @@
-# EmbedBench
+> **Related work:** Primary development for this problem space has converged on **[evalharness](https://github.com/MukundaKatta/evalharness)** — prompts, agents, and RAG-pipeline red-teaming, regression, and CI testing. This repo remains available; check the canonical repo first for the latest tooling.
+
+---# EmbedBench
 
 [![CI](https://github.com/officethree/EmbedBench/actions/workflows/ci.yml/badge.svg)](https://github.com/officethree/EmbedBench/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
